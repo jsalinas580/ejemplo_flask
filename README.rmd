@@ -1,5 +1,4 @@
 modulos:
 -pip install flask
-
 run en terminal :
 >python app.py flask run
